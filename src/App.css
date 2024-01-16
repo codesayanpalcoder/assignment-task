@@ -1,0 +1,22 @@
+.more-selected-badge {
+  margin-left: 40px;
+  background: #d4eefa;
+  border-radius: 4px;
+  font-family: Open Sans;
+  font-size: 11px;
+  padding: 3px;
+}
+/* Other styles... */
+
+.centered-container {
+ 
+  justify-content: center;
+  align-items: normal;
+  /* Set the height to 100% of the viewport height */
+}
+
+.centered-menu-list {
+  text-align: center;
+}
+
+/* Other styles... */
